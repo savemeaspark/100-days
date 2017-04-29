@@ -3,7 +3,7 @@
 ## Main Commitment
 I will code for at least one hour every day for the next 100 days.
 
-**Start Date**
+**Start Date**  
 April 28, 2017
 
 ## Additional Guidelines
