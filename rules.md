@@ -18,4 +18,4 @@ April 28, 2017
 - If you don't know why there is such an emphasis on working on the projects vs doing tutorials or online courses, read this: [How to Get a Developer Job in Less Than a Year](https://medium.freecodecamp.com/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 - If you can't push your code to GitHub for some reason (i.e. if you're only starting to code and doing interactive exercises), provide a link to a tweet. You can think of something else as long as your challenge stays public - and you get the benefit of being committed to it and accountable for your progress.
 
-<!-- delete me -->
+<!-- delete me please -->
